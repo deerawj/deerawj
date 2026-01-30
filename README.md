@@ -1,7 +1,5 @@
 # Hello, World!
 
-> Working on rewriting my website to rust and studying for my exams
-
 <pre>
     .___                                   __ 
   __| _/____   ________________ __  _  __ |__|
@@ -12,16 +10,10 @@
 </pre>
 
 ## ntro
-  - // studying for my OL, so taking a little break from github
-  - 👋 Hi, I’m @DeeraWj
-  - 📫 Contact me at deerawj@gmail.com
-  - 💻 I’m currently learning Python and Rust
-  - 💼 I'm self-taught and love to learn new things
-  - 🌱 I’m always looking to expand my knowledge and skillset
-  - 🌐 I’m also working on developing my own website, deerawj.com
-  - 💞️ I’m looking to collaborate on anything open source
-  - 🚧 Website is still under construction
-  - 🔗 @deerawj on Twitter and Github
+  - // studying for my ALs, so taking a little break from github
+  - Hi, I'm @deerawj
+  - 3 time Nation School Software Championship Winner (2023, 2024 and 2025)
+  - First place in the National Informatics Olympiads in 2025 with a perfect score of 600 / 600
  
  ##
 ![winning the top prize at an IT conference by @ChanuxBro](https://user-images.githubusercontent.com/84235833/209567096-5b3d031d-47ce-4695-8824-d41865a732c2.jpg)
